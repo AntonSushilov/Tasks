@@ -7,7 +7,7 @@ namespace ClassLibrary_Tasks_CSharp
         public double[] Arr1 { set; get; }
         public double[] Arr2 { set; get; }
 
-        string path = @"D:\VS_Projects\C#\BinaryFile.dat";
+        string path = @"C:\Users\ASUS\Desktop\BinaryFile.dat";
         public void EditBinaryFile()
         {
             ReadBinaryFile(path, out long n);

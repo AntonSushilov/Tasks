@@ -8,7 +8,7 @@ namespace Tasks_CSharp
 {
     public partial class Form_2 : Form
     {
-        string path = @"D:\VS_Projects\C#\BinaryFile.dat";
+        string path = @"C:\Users\ASUS\Desktop\BinaryFile.dat";
         BinaryFile file = new BinaryFile();
         public Form_2()
         {
